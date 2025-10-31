@@ -34,7 +34,5 @@ run_synthesis
 <img width="735" height="518" alt="Screenshot 2025-10-31 152005" src="https://github.com/user-attachments/assets/19640a70-2ebe-4864-8565-c99e734d7d19" />
 
 
-```
-
 
 
